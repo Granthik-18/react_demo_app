@@ -1,0 +1,26 @@
+.expense-item{
+    display: flex;
+    justify-content: space-between;
+    align-items:baseline;
+    width: 75rem;
+    padding: 2rem;
+    margin: 1rem 0;
+    background-color: #4b4b4b4b;
+}
+
+.expense{
+    display:flex;
+    justify-content:right;
+    align-items:center;
+    padding: 2rem;
+    margin: 1rem ;
+}
+
+.title{
+    display:inline-flex;
+    justify-content:right;
+    align-items:center;
+    align-content: center;
+    padding: 2rem;
+    margin: 1rem ;
+}
